@@ -33,24 +33,25 @@
     "#shared": "shared"
   },
   "dependencies": {
-    "@holu/body-parser": "^0.2.2",
-    "@holu/core": "^0.2.2",
-    "@holu/cors": "^0.2.2",
-    "@holu/i18n": "^0.2.2",
-    "@holu/jwt": "^0.2.2",
-    "@holu/openapi": "^0.2.2",
-    "@holu/openapi-validation": "^0.2.2",
-    "@holu/rest": "^0.2.2",
-    "@holu/typeorm": "^0.2.2",
+    "@holu/body-parser": "^0.3.0",
+    "@holu/cli": "^0.3.0",
+    "@holu/core": "^0.3.0",
+    "@holu/cors": "^0.3.0",
+    "@holu/i18n": "^0.3.0",
+    "@holu/jwt": "^0.3.0",
+    "@holu/openapi": "^0.3.0",
+    "@holu/openapi-validation": "^0.3.0",
+    "@holu/rest": "^0.3.0",
+    "@holu/typeorm": "^0.3.0",
     "@ts-stack/chain-error": "^1.5.1",
     "@ts-stack/cookies": "^1.2.2",
     "@ts-stack/openapi-spec": "^3.1.6",
     "bunyan": "^1.8.15",
-    "mysql2": "^3.23.3",
-    "typeorm": "^1.1.0"
+    "mysql2": "^3.24.2",
+    "typeorm": "^1.1.1"
   },
   "devDependencies": {
-    "@holu/rest-testing": "^0.2.2",
+    "@holu/rest-testing": "^0.3.0",
     "@types/bunyan": "^1.8.11",
     "@types/supertest": "^6.0.3",
     "supertest": "^7.2.2"
